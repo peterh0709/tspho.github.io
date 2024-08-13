@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "T. S. Peter Ho - Home"
+title: "T. S. Peter Ho"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Master of Philosophy (Mphil) in Electronic and Computer Engineering 
-Department of Electronic and Computer Engineering 
-THe Hong Kong University of Science and Technology
+Master of Philosophy (MPhil) in Electronic and Computer Engineering  
+Department of Electronic and Computer Engineering     
+THe Hong Kong University of Science and Technology   
 
 A data-driven personal website
 ======
