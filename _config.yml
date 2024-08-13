@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "T.S.Peter Ho - Home"
 title_separator          : "-"
 name                     : &name "T. S. Peter Ho"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "T.S.Peter Ho"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate Student at HKUST "
   location         : "Hong Kong"
-  employer         : "The Hong Kong University of Science and technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "tspho@connect.ust.hk" 
 
@@ -36,7 +36,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-6551-1921"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
