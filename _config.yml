@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "T.S.Peter Ho - Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "T. S. Peter Ho"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "T.S.Peter Ho"
+  name             : "T. S. Peter Ho"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student at HKUST "
   location         : "Hong Kong"
