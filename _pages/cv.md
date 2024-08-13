@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Phil. in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2026 (expected)
+* B.Eng. in Electronic Engineering, The Hong Kong University of Science and Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2023: Research Assitant
+  * HKUST
+  * Neuromorphic Computing using Dual-Gate Thin-Flim Transistors
+  * Supervisor: Professor Man Wong 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -43,22 +33,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Y. Hu, T. S. P. Ho, T. Lei, Z. Xia and M. Wong, "Construction and Application of a Neuromorphic Circuit With Excitatory and Inhibitory Post-Synaptic Conduction Channels Implemented Using Dual-Gate Thin-Film Transistors," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 4, pp. 1582-1589, April 2024, doi: 10.1109/TCSI.2023.3347773.
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022 - Present: Head Student Ambassador, ECE Dept, HKUST
