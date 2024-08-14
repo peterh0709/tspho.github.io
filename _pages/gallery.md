@@ -1,8 +1,6 @@
 ---
-permalink: /
-title: "T. S. Peter Ho"
+layout: archive
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
-redirect_from: 
-  - /Gallery/
-  - /gallery.html
 ---
