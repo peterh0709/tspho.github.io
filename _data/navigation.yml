@@ -10,8 +10,8 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-  - title: "Research"
-   url: /Research/   
+#  - title: "Research"
+ #  url: /Research/   
    
   - title: "Teaching"
     url: /teaching/    
@@ -24,8 +24,8 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Gallery"
-    url: /Gallery/
+#  - title: "Gallery"
+#    url: /Gallery/
     
  # - title: "Guide"
  #   url: /markdown/
