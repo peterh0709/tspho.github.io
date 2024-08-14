@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Research"
+layout: single
+title: "Researcg"
 permalink: /Research/
 author_profile: true
 ---
