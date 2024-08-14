@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Master of Philosophy (MPhil) Candidate  
-Emerging Device and Systems Group  
-Department of Electronic and Computer Engineering       
+[Emerging Device and Systems Group](https://device.hkust.edu.hk/)  
+[Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/)       
 THe Hong Kong University of Science and Technology     
 
 Research Interest
@@ -32,7 +32,12 @@ Jun 2023 - Aug 2023: Univeresity of California, Berkeley
 
  * Summer Visiting Student
 
-
+Leadership
+=====
+Nov 2022 - Present: Head Student Ambassador, ECE Dept, HKUST 
+ * Student Representative of the department in outreach activities
+ * Featured in departmental promotional videos
+   
 Academic Services
 ======
 
