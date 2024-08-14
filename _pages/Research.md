@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "T. S. Peter Ho"
+layout: archive
+title: "Research"
+permalink: /Research/
 author_profile: true
-redirect_from: 
-  - /Research/
-  - /Research.html
 ---
 
 Research Experience
