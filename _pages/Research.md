@@ -7,7 +7,6 @@ redirect_from:
   - /Research.html
 ---
 
-
 Research Experience
 =====
 Aug 2024 - Present: Doping Engineering in MoS2 Devices 
