@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Master of Philosophy (MPhil) Candidate 
-Department of Electronic and Computer Engineering     
-THe Hong Kong University of Science and Technology   
+Master of Philosophy (MPhil) Candidate  
+Emerging Device and Systems Group  
+Department of Electronic and Computer Engineering       
+THe Hong Kong University of Science and Technology     
 
 Research Interest
 ======
