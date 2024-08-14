@@ -43,3 +43,5 @@ Academic Services
 
 Teaching
 ======
+<br/><br/>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BBbc9rH8mbSy1JtGxE7TXFw4l3alzPbcIcVwQep6GoY"></script>
