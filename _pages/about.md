@@ -40,8 +40,8 @@ Nov 2022 - Present: Head Student Ambassador, ECE Dept, HKUST
    
 Academic Services
 ======
+ISPSD 2023
 
-Teaching
 ======
 <br/><br/>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BBbc9rH8mbSy1JtGxE7TXFw4l3alzPbcIcVwQep6GoY"></script>
