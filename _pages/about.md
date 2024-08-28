@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Master of Philosophy (MPhil) Candidate  
+Master of Philosophy (M.Phil.) student
 [Emerging Device and Systems Group](https://device.hkust.edu.hk/)  
 [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/)       
-THe Hong Kong University of Science and Technology     
+The Hong Kong University of Science and Technology     
 
 Research Interest
 ======
-Nanoelectronics, 2D semiconductors 
+2D FETs 
 
 Education
 ======
@@ -34,13 +34,14 @@ Jun 2023 - Aug 2023: Univeresity of California, Berkeley
 
 Leadership
 =====
-Nov 2022 - Present: Head Student Ambassador, ECE Dept, HKUST 
- * Student Representative of the department in outreach activities
+Nov 2022 - Aug 2024: Head Student Ambassador, ECE Dept, HKUST 
+ * UG Student Representative of the department 
  * Featured in departmental promotional videos
    
 Academic Services
 ======
 ISPSD 2023
+Future Science Prize 2023
 
 ======
 <br/><br/>
