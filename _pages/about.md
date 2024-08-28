@@ -40,7 +40,7 @@ Nov 2022 - Aug 2024: Head Student Ambassador, ECE Dept, HKUST
    
 Academic Services
 ======
-ISPSD 2023
+ISPSD 2023  
 Future Science Prize 2023
 
 ======
