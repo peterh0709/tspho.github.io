@@ -5,7 +5,5 @@ permalink: /Gallery/
 author_profile: true
 ---
 ## Admission talk Summer 2024 
-
-<img src="/SS talk with andrew.jpg" />
-
-Deparmental admission talk with Andrew.
+<img src="/images/SS talk with andrew.jpg" />
+Departmental admission talk with Andrew.
