@@ -6,6 +6,6 @@ author_profile: true
 ---
 ## Jul 2024 
 
-<img src="/images/2024_macau[1].jpg" />
+<img src="/ss talk with andrew.jpg" />
 
 Deparmental admission talk with Andrew.
