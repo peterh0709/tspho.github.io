@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
