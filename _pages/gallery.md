@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gallery"
-permalink: /gallery/
+permalink: /Gallery/
 author_profile: true
 ---
 ## Admission talk Summer 2024 
