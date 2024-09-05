@@ -24,3 +24,6 @@ Departmental admission talk with Prof. Andrew POON.
 Departmental admission talk with Prof. Patrick YUE.    
 <img src="/images/Talk with Patrick.jpg" width="500"/>   
     
+## Exchange at UC Berkeley, CA, Summer 2023
+Sather Gate    
+<img src="/images/Berkeley2023.jpg" width="500"/>  
