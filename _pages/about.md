@@ -35,9 +35,20 @@ Jun 2023 - Aug 2023: Univeresity of California, Berkeley
 
 Leadership
 =====
+Sep 2024 - Present: Execetive Committee, Hall Affairs and Operations Committee (HAOC), HKUST 
+ * PG Student Representative
+ * strengthening residential education in student halls by referring to or updating the existing guidelines of general hall rules and penalties on an annual basis.
+ * Reviewing and making recommendations to improve the efficiency of operations and management of the student halls on an annual basis.
+ * Serving as the turn-to body with the authority of making final decisions for incidents and appeals involving residents/applicants/visitors of student halls.
+
 Nov 2022 - Aug 2024: Head Student Ambassador, ECE Dept, HKUST 
- * UG Student Representative of the department 
- * Featured in departmental promotional videos
+ * UG Student Representative of the department
+ * Assisting the department in outreaching activities
+ * Collecting suggestions and comments about the department from other students
+ * Advise junior students for academic and non-academic matters, such as course selection/enrollment, study path, internship, career development, etc.
+
+
+
    
 Academic Services
 ======
