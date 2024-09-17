@@ -35,7 +35,7 @@ Jun 2023 - Aug 2023: Univeresity of California, Berkeley
 
 Leadership
 =====
-Sep 2024 - Present: Execetive Committee, Hall Affairs and Operations Committee (HAOC), HKUST 
+Sep 2024 - Present: Executive Committee, Hall Affairs and Operations Committee (HAOC), HKUST 
  * PG Student Representative
  * strengthening residential education in student halls by referring to or updating the existing guidelines of general hall rules and penalties on an annual basis.
  * Reviewing and making recommendations to improve the efficiency of operations and management of the student halls on an annual basis.
