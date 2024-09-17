@@ -11,6 +11,7 @@ Master of Philosophy (M.Phil.) student
 [Emerging Device and Systems Group](https://device.hkust.edu.hk/)  
 [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/)       
 The Hong Kong University of Science and Technology     
+Email: tspho@connect.ust.hk  
 
 Research Interest
 ======
