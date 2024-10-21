@@ -57,4 +57,5 @@ Future Science Prize 2023
 
 ======
 <br/><br/>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BBbc9rH8mbSy1JtGxE7TXFw4l3alzPbcIcVwQep6GoY"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BBbc9rH8mbSy1JtGxE7TXFw4l3alzPbcIcVwQep6GoY"></script>   
+<a href="https://clustrmaps.com/site/1c0u1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=BBbc9rH8mbSy1JtGxE7TXFw4l3alzPbcIcVwQep6GoY&cl=ffffff" /></a>    
